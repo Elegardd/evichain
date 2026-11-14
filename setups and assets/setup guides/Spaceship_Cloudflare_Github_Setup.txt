@@ -6,8 +6,10 @@ git add .
 git config --global user.email "Wilhelmbrighton@gmail.com"
 git config --global user.name "amnekku"
 git branch -M main
-git remote add origin https://github.com/Elegardd/evichain.git
+git remote add origin https://github.com/Elegardd/evichain.git or git remote set-url origin https://github.com/Elegardd/evichain.git
+git commit -m "Initial commit"
 git push -u origin main"
+
 
 
 If there are future updates and need to update again:
