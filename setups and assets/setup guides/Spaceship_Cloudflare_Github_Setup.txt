@@ -6,7 +6,7 @@ git add .
 git config --global user.email "Wilhelmbrighton@gmail.com"
 git config --global user.name "amnekku"
 git branch -M main
-git remote add origin https://github.com/Elegardd/evidentia.git
+git remote add origin https://github.com/Elegardd/evichain.git
 git push -u origin main"
 
 
